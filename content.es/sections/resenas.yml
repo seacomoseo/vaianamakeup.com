@@ -1,0 +1,48 @@
+title: Reseñas
+subtitle: ¿Qué dicen de mi?
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Macarena R.
+    image: https://lh3.googleusercontent.com/a-/ACNPEu_CUbKOtPUn0pW52RgZgNvCsfp8fHjWyqSAOf-2YQ=s144
+    description: |
+      Vanesa es una maquilladora espectacular!!! Nunca había conseguido que me gustara el resultado de ninguna maquilladora hasta que la conocí a ella.
+
+      Atenta, profesional y cuidadosa con todos los detalles.
+
+      Sabe sacar el máximo partido y que te sientas tranquila si tienes cualquier evento porque no falla!!! La recomiendo 100%!!!
+
+      Mil gracias Preciosa por hacernos sentir diosas por un día 😜😘
+  - title: Encarna A.
+    image: https://lh3.googleusercontent.com/a-/ACNPEu861dr5RxmceCnzbIFWq-SfB20xRvECok5tfOqXFHI=s144
+    description: |
+      Vanesa es una super maquilladora, cada vez que tengo evento acudo a ella, es impresionante el trabajazo que hace y como te deja!!!!!
+
+      Super atenta siempre... Trabaja con las mejores marcas, para que ese día... Estés divina!!
+  - title: Fuensanta V.
+    image: https://lh3.googleusercontent.com/a/ALm5wu06vnthEIUmKqyY5_Vwi4wgZnY4UIKa7fUmMb04=s144
+    description: |
+      Sencillamente MARAVILLOSA!!!
+
+      La conocí en Inglot cuando trabajaba allí, y ahora que trabaja por su cuenta, la llamo siempre que tengo algún evento.
+
+      Es una máquina maquillando.
+
+      La recomiendo 100%
+  - title: Rosa M.
+    image: https://lh3.googleusercontent.com/a-/ACNPEu9vjdjkkZCkJycW0ICVEMtA5fdTL4_itSBn5MqVF18=s144
+    description: |
+      Contentísima con el resultado.
+
+      La mejor elección sin duda!!
+- type: columns
+  items:
+  - description: |
+      ¡Hay más aquí! ¡Añade la tuya!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CbY8GpCk0PpFEAg/review "noindex")

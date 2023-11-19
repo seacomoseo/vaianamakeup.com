@@ -1,0 +1,20 @@
+%font-cursive {
+  letter-spacing: .1em;
+}
+
+// Header
+
+#body-inicio #header {
+  .bg-figure-image {
+    filter: blur(5px);
+  }
+  @mixin show-up($delay) {
+    animation: show-up .5s (.5 + .25s * $delay) both;
+  }
+  .image {     @include show-up(1); }
+  .description {
+    ul {       @include show-up(2); }
+    .buttons { @include show-up(3); }
+    margin-top: 1em;
+  }
+}

@@ -1,0 +1,22 @@
+title: Características
+subtitle: ¿Qué nos caracteriza?
+rows:
+- type: columns
+  design:
+    underline: true
+  items:
+  - title: Especialista en novias e invitadas
+    subtitle: Tu día especial merece un look especial
+    icon: rings-wedding
+    description: |
+      Resalta tu belleza en el día más importante de tu vida. Especialistas en novias e invitadas, con amplia experiencia y estilos personalizados.
+  - title: Servicios <br> a domicilio
+    subtitle: La comodidad de tu hogar a tu disposición
+    icon: house
+    description: |
+      Relájate y disfruta de nuestros servicios en la comodidad de tu hogar. Servicios de maquillaje a domicilio para cualquier ocasión.
+  - title: Encuentra tu maquillaje ideal
+    subtitle: Encuentra tu estilo y resalta tu belleza natural
+    icon: palette
+    description: |
+      Encuentra tu estilo y resalta tu belleza natural. Servicios personalizados para lograr el look que siempre has deseado.

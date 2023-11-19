@@ -1,0 +1,15 @@
+title: Servicios
+subtitle: ¿Cuál es tu necesidad?
+rows:
+- type: columns
+  design:
+    color: white
+    link: '#ejemplo'
+    ratio: 16x9
+    inset: true
+    image: fondo.jpg
+  items:
+  - title: Novias
+  - title: Social
+  - title: Caracterización
+    image: caracterizacion.mp4#mute

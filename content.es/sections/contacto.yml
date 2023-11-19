@@ -1,0 +1,45 @@
+title: Contacto
+subtitle: ¿En qué puedo ayudarte?
+button: link
+size: sm
+rows:
+- type: contact
+  data:
+  - type: phone
+    label: 633 72 31 53
+  - type: whatsapp
+    button: link
+    label: 633 72 31 53
+  - type: mail
+    label: info@vaianamakeup.com
+    full: true
+  - type: address
+    active: false
+    name: Vaiana Makeup
+    streetAddress: C. Condestable López Dávalos, 11
+    postalCode: 30007
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.128493,37.995911]}'
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: tel
+      name: Teléfono
+      required: false
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: false
+    link: https://g.page/r/CbY8GpCk0PpFEAg
+    iframe: ''
+    flip_x: false
+    divider: ''

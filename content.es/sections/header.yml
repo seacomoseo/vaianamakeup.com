@@ -1,0 +1,18 @@
+anchor: Vaiana Makeup - Maquilladora Profesional en Murcia
+color: dark
+image: logo-alt.svg
+bg: 22-10-11-18-02-49.jpg
+description: |
+  <!--
+  - icon-check Especialista en novias e invitadas
+  - icon-check Servicios a domicilio
+  - icon-check Encuentra tu maquillaje ideal
+  -->
+
+  [btn icon-plus Más](#principal)
+more:
+  full_screen: trues
+  image_min: 18
+  image_max: 40
+  opacity: 30
+  parallax: true

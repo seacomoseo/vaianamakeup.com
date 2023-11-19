@@ -1,0 +1,21 @@
+title: Sobre mí
+subtitle: ¿Quién soy?
+rows:
+- type: columns
+  items:
+  - bg: vaiana.jpg
+    more:
+      align_y: strech
+  - description: |
+      ¡Hola! Soy Vaiana, maquilladora profesional con más de 8 años de experiencia y amante de todo lo relacionado con la belleza y el maquillaje creativo. En Vaiana Makeup, estamos apasionados por realzar tu belleza natural y ofrecerte una experiencia única y personalizada.
+
+      Mi objetivo es resaltar lo mejor de ti, desde una piel luminosa y cejas definidas hasta una mirada intensa y radiante. En cada cita, me esfuerzo por conocerte mejor y ofrecerte el mejor asesoramiento para que puedas lucir increíble en cualquier ocasión.
+
+      Creemos que cada look debe ser perfecto para ti, transmitiendo tu esencia y personalidad. Por eso, en Vaiana Makeup, nos especializamos en maquillaje para novias, maquillaje social y caracterización. Ofrecemos servicios personalizados para que puedas conseguir el look que deseas y sentirte increíble en tu gran día, en un evento especial o en cualquier ocasión.
+
+      Desde labios rojos hasta pestañas postizas, y un eyeliner infinito, nuestros servicios te ayudarán a destacar y lucir radiante. Además, utilizamos solo productos de alta calidad para garantizar resultados duraderos y espectaculares.
+
+      Mi objetivo es ofrecerte la mejor experiencia posible. Contáctanos para programar tu cita y déjanos ayudarte a lucir increíble en tu próximo evento.
+    more:
+      align: left
+      align_y: center
