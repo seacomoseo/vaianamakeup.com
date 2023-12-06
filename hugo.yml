@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/vaianamakeup/vaianamakeup.com
   netlify_name: vaianamakeup
   netlify_id: 77289ad4-5acb-47ee-9c00-e6c007091792
+  hook: NjM0NjlmM2Q2YzFhZDU2MWVlNmUwZDk1
   drive_link: https://drive.google.com/file/d/1rslTduT_suTRpFbCgEPBxc7UGa16UvoM
   drive_mails: vaianasurf@gmail.com
 defaultContentLanguage: es
