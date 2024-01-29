@@ -8,13 +8,13 @@
   .bg-figure-image {
     filter: blur(5px);
   }
-  @mixin show-up($delay) {
-    animation: show-up .5s (.5 + .25s * $delay) both;
+  @mixin show-from($delay) {
+    animation: show-from .5s (.5 + .25s * $delay) both;
   }
-  .image {     @include show-up(1); }
+  .image {     @include show-from(1); }
   .description {
-    ul {       @include show-up(2); }
-    .buttons { @include show-up(3); }
+    ul {       @include show-from(2); }
+    .buttons { @include show-from(3); }
     margin-top: 1em;
   }
 }
